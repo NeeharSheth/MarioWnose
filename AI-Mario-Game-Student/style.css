@@ -1,0 +1,49 @@
+.heading{
+width: 100%;
+text-align: left;;
+font-family: 'Palette Mosaic', cursive;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 2px solid darkslateblue;
+    font-size: 23px;
+}
+
+.button_start, .status{
+    font-size: 22px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#credit_div{
+    width: 100%;
+    background-color: ghostwhite;
+    line-height: 3;
+    bottom: 0;
+    font-size: 23px;
+    text-align: center;
+    font-weight: bolder;
+}
+.mario_img{
+    width: 100%;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.intruction_img{
+display: inline-block;
+width: 45%;
+}
+
+video{
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
